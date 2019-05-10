@@ -1,4 +1,4 @@
-# Power abd Sample Size Calculation for Logistic Regression
+# Power and Sample Size Calculation for Logistic Regression
 
 Resources for Spring 2019 Categorical Data Project on Power Analysis for Logistic Regression
 
